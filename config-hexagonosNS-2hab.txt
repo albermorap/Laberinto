@@ -1,0 +1,3 @@
+forma,hexagonos
+habNS,2
+puerta,01,norte/02,sur

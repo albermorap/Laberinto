@@ -1,0 +1,6 @@
+forma,hexagonos
+habNS,4
+puerta,01,norte/02,sur
+puerta,01,noreste/03,suroeste
+puerta,02,sureste/03,noroeste
+puerta,03,noreste/04,suroeste

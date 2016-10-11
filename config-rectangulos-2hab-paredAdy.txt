@@ -1,0 +1,5 @@
+forma,rectangulos
+hab,2
+puerta,01,norte/02,sur
+bomba,1
+desactivador,1

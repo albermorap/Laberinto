@@ -1,0 +1,5 @@
+forma,rectangulos
+hab,2
+puerta,01,norte/02,sur
+llave,1
+pocion,2

@@ -1,0 +1,9 @@
+forma,rectangulos
+hab,4
+paredAdyacente,01,norte/02,sur
+paredAdyacente,02,este/04,oeste
+puerta,03,norte/04,sur
+puerta,01,este/03,oeste
+pocion,2
+martillo,1
+desactivador,3

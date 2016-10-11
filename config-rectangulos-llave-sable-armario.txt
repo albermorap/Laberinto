@@ -1,0 +1,8 @@
+forma,rectangulos
+hab,2
+puerta,01,norte/02,sur
+llave,1
+armario,1
+sable,2
+cofre,2
+llaveMaestra,1

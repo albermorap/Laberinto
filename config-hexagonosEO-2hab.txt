@@ -1,0 +1,3 @@
+forma,hexagonos
+habEO,2
+puerta,01,este/02,oeste

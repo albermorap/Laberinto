@@ -1,0 +1,4 @@
+forma,triangulos
+habe,1
+habo,1
+puerta,01,este/02,oeste

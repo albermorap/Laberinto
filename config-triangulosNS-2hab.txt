@@ -1,0 +1,4 @@
+forma,triangulos
+habn,1
+habs,1
+puerta,01,norte/02,sur

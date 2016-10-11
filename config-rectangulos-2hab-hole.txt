@@ -1,0 +1,4 @@
+forma,rectangulos
+hab,2
+puerta,01,norte/02,sur
+hole,1
